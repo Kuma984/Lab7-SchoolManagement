@@ -27,7 +27,6 @@ Both applications feature comprehensive management pages for all 5 core entities
 
 ## 🔗 Project Links
 - **GitHub Repository:** [https://github.com/Kuma984/Lab7-SchoolManagement](https://github.com/Kuma984/Lab7-SchoolManagement)
-- **Figma Prototype / Wireframes:** [https://www.figma.com/design/NIElQyBErDa84XBUGDsKF9/Untitled?node-id=1-11&t=Ew0H3XM52ZZFSqMb-1](https://www.figma.com/design/NIElQyBErDa84XBUGDsKF9/Untitled?node-id=1-11&t=Ew0H3XM52ZZFSqMb-1)
 
 ---
 
